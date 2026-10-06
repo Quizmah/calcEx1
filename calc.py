@@ -124,3 +124,4 @@ while run:
                 res = float(num1) / float(num2)
                 print("Итого:", res)
                 run3 = False
+# Проверка связи для теста репы
